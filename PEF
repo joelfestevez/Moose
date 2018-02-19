@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
 printf(“Este es mi segundo codigo”);
+printf(“\nHola Joel\n”);
 printf(“Programar es facil papi”);
 printf(“Voy a compartir con mi compañero de a lado el codigo”);
 return 0;
